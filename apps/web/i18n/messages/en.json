@@ -1,0 +1,10 @@
+{
+    "home": {
+        "title": "Welcome",
+        "description": "Your internationalized Next.js app is working."
+    },
+    "test": {
+        "title": "Translation Test",
+        "message": "This message comes from en.json"
+    }
+}
