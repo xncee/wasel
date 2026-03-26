@@ -1,10 +1,63 @@
 {
     "home": {
         "title": "Welcome",
-        "description": "Your internationalized Next.js app is working."
+        "description": "Your internationalized Next.js app is working.",
+        "signIn": "Sign in",
+        "signUp": "Create account",
+        "dashboard": "Dashboard"
     },
     "test": {
         "title": "Translation Test",
         "message": "This message comes from en.json"
+    },
+    "auth": {
+        "signin": {
+            "title": "Sign in",
+            "description": "Enter your email and password to continue.",
+            "badge": "Account Portal",
+            "backHome": "Back to home",
+            "heroEyebrow": "WASEL CLOUD",
+            "heroTitle": "One command center for growth, team, and revenue",
+            "heroDescription": "Monitor subscriptions, customer activity, and team output from a fast product-first workspace.",
+            "statActivityLabel": "Daily activity",
+            "statActivityValue": "+38%",
+            "statSubsLabel": "Subscriptions",
+            "statSubsValue": "1,420",
+            "statResponseLabel": "Response time",
+            "statResponseValue": "120ms",
+            "email": "Email",
+            "emailPlaceholder": "you@example.com",
+            "password": "Password",
+            "passwordPlaceholder": "••••••••",
+            "forgotPassword": "Forgot your password?",
+            "submit": "Sign in",
+            "submitting": "Signing in...",
+            "submitGoogle": "Login with Google",
+            "noAccount": "Don't have an account?",
+            "createAccount": "Create one",
+            "errorGeneric": "Unable to sign in. Please try again.",
+            "errorEmail": "Enter a valid email",
+            "errorPassword": "At least 8 characters"
+        },
+        "signup": {
+            "title": "Create your account",
+            "description": "Use your name, email and password to get started.",
+            "name": "Name",
+            "email": "Email",
+            "password": "Password",
+            "submit": "Create account",
+            "submitting": "Creating account...",
+            "hasAccount": "Already have an account?",
+            "goToSignIn": "Sign in",
+            "errorGeneric": "Unable to create account. Please try again."
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "description": "You are inside a protected route.",
+        "signedInAs": "Signed in as",
+        "signOut": "Sign out",
+        "signingOut": "Signing out...",
+        "backHome": "Back to home"
     }
 }
